@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">AndroidBluetoothExemple</string>
+    <string name="toolbarTitle">Android Bluetooth Exemple</string>
+    <string name="openbt">Obrir Bluetooth</string>
+    <string name="makeVisible">Fes Bluetooth Visible</string>
+    <string name="findDevices">Troba Dispositius</string>
+
+    <!--  BluetoothChat -->
+    <string name="send">Envia</string>
+    <string name="not_connected">No estas connectat a cap dispositiu</string>
+    <string name="bt_not_enabled_leaving">Bluetooth no habilitat. Sortint del xat bluetooth.</string>
+    <string name="title_connecting">connectant...</string>
+    <string name="title_connected_to">connectat: </string>
+    <string name="title_not_connected">not connected</string>
+    <!--  DeviceListActivity -->
+    <string name="scanning">escanejant dispositius...</string>
+    <string name="select_device">selecciona un dispositiu per connectar-se</string>
+    <string name="none_paired">No s\'han sincronitzat dispositius</string>
+    <string name="none_found">No s\'ha trobat cap dispositiu</string>
+    <string name="title_paired_devices">Dispositius emparellats</string>
+    <string name="title_other_devices">Altres Dispositius Disponibles</string>
+    <string name="button_scan">Escaneja dispositius</string>
+    <!-- Options Menu -->
+    <string name="connect">Connecta\'t</string>
+    <string name="discoverable">Fes-te visible</string>
+</resources>
